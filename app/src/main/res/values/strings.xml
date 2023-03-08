@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Car Mobile</string>
+    <string name="carMobile">Car Mobile App</string>
+    <string name="avatar">avatar</string>
+    <string name="strip4">-</string>
+    <string name="jenisMobil">Macam Macam Jenis Mobil</string>
+
+    <string name="cityCarPembuat">Suzuki</string>
+    <string name="cityCarModel">Suzuki Wagon R</string>
+    <string name="cityCarKeluaran">2022</string>
+    <string name="cityCarDeskripsi">city car adalah jenis mobil dengan mesin serta dimensi yang sesuai untuk digunakan di jalan perkotaan. Secara sekilas, jenis mobil ini memang terlihat mirip dengan mobil hatchback. Namun jika kita lihat secara lebih detail, Anda akan mengetahui bahwa mobil jenis city car memiliki dimensi bodi yang lebih kecil jika dibandingkan dengan hatchback. Selain itu, meskipun sama-sama dapat menampung sekitar 5 orang penumpang, namun mobil city car umumnya memiliki ruang kabin yang lebih sempit.
+Perlu Anda tahu, city car memang didesain memiliki dimensi yang kecil sehingga dapat digunakan dengan nyaman untuk berkendara di jalan perkotaan yang padat atau sering mengalami macet. Contoh mobil city car seperti Suzuki Ignis, Toyota Agya, Daihatsu Ayla, dan lain-lain.</string>
+
+    <string name="hatchbackCarPembuat">BMW</string>
+    <string name="hatchbackCarModel">BMW 320i Touring M Sport</string>
+    <string name="hatchbackCarKeluaran">2019</string>
+    <string name="HatchbackCarDeskripsi">mobil hatchback adalah mobil turunan sedan atau juga disebut sebagai mobil penumpang berbasis sedan. Perbedaannya dengan mobil sedan terletak pada bagian bagasi. Jika mobil sedan konvensional mempunyai “ekor” yang berfungsi sebagai ruang bagasi, hatchback memiliki bagasi yang terletak di bagian belakang bangku penumpang.
+Perlu Anda tahu, sebagian besar mobil hatchback yang beredar di Indonesia sudah memiliki fitur VSC (Vehicle Stability Control). Dengan fitur tersebut, laju mobil hatchback bisa menjadi lebih stabil.</string>
+
+    <string name="MPVCarPembuat">Suzuki</string>
+    <string name="MPVCarModel">Suzuki Wagon R</string>
+    <string name="MPVCarKeluaran">2022</string>
+    <string name="MPVCarDeskripsi">city car adalah jenis mobil dengan mesin serta dimensi yang sesuai untuk digunakan di jalan perkotaan. Secara sekilas, jenis mobil ini memang terlihat mirip dengan mobil hatchback. Namun jika kita lihat secara lebih detail, Anda akan mengetahui bahwa mobil jenis city car memiliki dimensi bodi yang lebih kecil jika dibandingkan dengan hatchback. Selain itu, meskipun sama-sama dapat menampung sekitar 5 orang penumpang, namun mobil city car umumnya memiliki ruang kabin yang lebih sempit.
+Perlu Anda tahu, city car memang didesain memiliki dimensi yang kecil sehingga dapat digunakan dengan nyaman untuk berkendara di jalan perkotaan yang padat atau sering mengalami macet. Contoh mobil city car seperti Suzuki Ignis, Toyota Agya, Daihatsu Ayla, dan lain-lain.</string>
+
+    <string name="SUVCarPembuat">Suzuki</string>
+    <string name="SUVCarModel">Suzuki Wagon R</string>
+    <string name="SUVCarKeluaran">2022</string>
+    <string name="SUVCarDeskripsi">city car adalah jenis mobil dengan mesin serta dimensi yang sesuai untuk digunakan di jalan perkotaan. Secara sekilas, jenis mobil ini memang terlihat mirip dengan mobil hatchback. Namun jika kita lihat secara lebih detail, Anda akan mengetahui bahwa mobil jenis city car memiliki dimensi bodi yang lebih kecil jika dibandingkan dengan hatchback. Selain itu, meskipun sama-sama dapat menampung sekitar 5 orang penumpang, namun mobil city car umumnya memiliki ruang kabin yang lebih sempit.
+Perlu Anda tahu, city car memang didesain memiliki dimensi yang kecil sehingga dapat digunakan dengan nyaman untuk berkendara di jalan perkotaan yang padat atau sering mengalami macet. Contoh mobil city car seperti Suzuki Ignis, Toyota Agya, Daihatsu Ayla, dan lain-lain.</string>
+
+    <string name="wagonCarPembuat">Suzuki</string>
+    <string name="wagonCarModel">Suzuki Wagon R</string>
+    <string name="wagonCarKeluaran">2022</string>
+    <string name="wagonCarDeskripsi">city car adalah jenis mobil dengan mesin serta dimensi yang sesuai untuk digunakan di jalan perkotaan. Secara sekilas, jenis mobil ini memang terlihat mirip dengan mobil hatchback. Namun jika kita lihat secara lebih detail, Anda akan mengetahui bahwa mobil jenis city car memiliki dimensi bodi yang lebih kecil jika dibandingkan dengan hatchback. Selain itu, meskipun sama-sama dapat menampung sekitar 5 orang penumpang, namun mobil city car umumnya memiliki ruang kabin yang lebih sempit.
+Perlu Anda tahu, city car memang didesain memiliki dimensi yang kecil sehingga dapat digunakan dengan nyaman untuk berkendara di jalan perkotaan yang padat atau sering mengalami macet. Contoh mobil city car seperti Suzuki Ignis, Toyota Agya, Daihatsu Ayla, dan lain-lain.</string>
+
+    <string name="sportCarPembuat">Suzuki</string>
+    <string name="sportCarModel">Suzuki Wagon R</string>
+    <string name="sportCarKeluaran">2022</string>
+    <string name="sportCarDeskripsi">city car adalah jenis mobil dengan mesin serta dimensi yang sesuai untuk digunakan di jalan perkotaan. Secara sekilas, jenis mobil ini memang terlihat mirip dengan mobil hatchback. Namun jika kita lihat secara lebih detail, Anda akan mengetahui bahwa mobil jenis city car memiliki dimensi bodi yang lebih kecil jika dibandingkan dengan hatchback. Selain itu, meskipun sama-sama dapat menampung sekitar 5 orang penumpang, namun mobil city car umumnya memiliki ruang kabin yang lebih sempit.
+Perlu Anda tahu, city car memang didesain memiliki dimensi yang kecil sehingga dapat digunakan dengan nyaman untuk berkendara di jalan perkotaan yang padat atau sering mengalami macet. Contoh mobil city car seperti Suzuki Ignis, Toyota Agya, Daihatsu Ayla, dan lain-lain.</string>
+
+    <string name="hyperCarPembuat">Suzuki</string>
+    <string name="hyperCarModel">Suzuki Wagon R</string>
+    <string name="hyperCarKeluaran">2022</string>
+    <string name="hyperCarDeskripsi">city car adalah jenis mobil dengan mesin serta dimensi yang sesuai untuk digunakan di jalan perkotaan. Secara sekilas, jenis mobil ini memang terlihat mirip dengan mobil hatchback. Namun jika kita lihat secara lebih detail, Anda akan mengetahui bahwa mobil jenis city car memiliki dimensi bodi yang lebih kecil jika dibandingkan dengan hatchback. Selain itu, meskipun sama-sama dapat menampung sekitar 5 orang penumpang, namun mobil city car umumnya memiliki ruang kabin yang lebih sempit.
+Perlu Anda tahu, city car memang didesain memiliki dimensi yang kecil sehingga dapat digunakan dengan nyaman untuk berkendara di jalan perkotaan yang padat atau sering mengalami macet. Contoh mobil city car seperti Suzuki Ignis, Toyota Agya, Daihatsu Ayla, dan lain-lain.</string>
+
+    <string name="superCarPembuat">Suzuki</string>
+    <string name="superCarModel">Suzuki Wagon R</string>
+    <string name="superCarKeluaran">2022</string>
+    <string name="superCarDeskripsi">city car adalah jenis mobil dengan mesin serta dimensi yang sesuai untuk digunakan di jalan perkotaan. Secara sekilas, jenis mobil ini memang terlihat mirip dengan mobil hatchback. Namun jika kita lihat secara lebih detail, Anda akan mengetahui bahwa mobil jenis city car memiliki dimensi bodi yang lebih kecil jika dibandingkan dengan hatchback. Selain itu, meskipun sama-sama dapat menampung sekitar 5 orang penumpang, namun mobil city car umumnya memiliki ruang kabin yang lebih sempit.
+Perlu Anda tahu, city car memang didesain memiliki dimensi yang kecil sehingga dapat digunakan dengan nyaman untuk berkendara di jalan perkotaan yang padat atau sering mengalami macet. Contoh mobil city car seperti Suzuki Ignis, Toyota Agya, Daihatsu Ayla, dan lain-lain.</string>
+
+    <string name="crossoverCarPembuat">Suzuki</string>
+    <string name="crossoverCarModel">Suzuki Wagon R</string>
+    <string name="crossoverCarKeluaran">2022</string>
+    <string name="crossoverCarDeskripsi">city car adalah jenis mobil dengan mesin serta dimensi yang sesuai untuk digunakan di jalan perkotaan. Secara sekilas, jenis mobil ini memang terlihat mirip dengan mobil hatchback. Namun jika kita lihat secara lebih detail, Anda akan mengetahui bahwa mobil jenis city car memiliki dimensi bodi yang lebih kecil jika dibandingkan dengan hatchback. Selain itu, meskipun sama-sama dapat menampung sekitar 5 orang penumpang, namun mobil city car umumnya memiliki ruang kabin yang lebih sempit.
+Perlu Anda tahu, city car memang didesain memiliki dimensi yang kecil sehingga dapat digunakan dengan nyaman untuk berkendara di jalan perkotaan yang padat atau sering mengalami macet. Contoh mobil city car seperti Suzuki Ignis, Toyota Agya, Daihatsu Ayla, dan lain-lain.</string>
+
+    <string name="pickCarPembuat">Suzuki</string>
+    <string name="pickCarModel">Suzuki Wagon R</string>
+    <string name="pickCarKeluaran">2022</string>
+    <string name="pickCarDeskripsi">city car adalah jenis mobil dengan mesin serta dimensi yang sesuai untuk digunakan di jalan perkotaan. Secara sekilas, jenis mobil ini memang terlihat mirip dengan mobil hatchback. Namun jika kita lihat secara lebih detail, Anda akan mengetahui bahwa mobil jenis city car memiliki dimensi bodi yang lebih kecil jika dibandingkan dengan hatchback. Selain itu, meskipun sama-sama dapat menampung sekitar 5 orang penumpang, namun mobil city car umumnya memiliki ruang kabin yang lebih sempit.
+Perlu Anda tahu, city car memang didesain memiliki dimensi yang kecil sehingga dapat digunakan dengan nyaman untuk berkendara di jalan perkotaan yang padat atau sering mengalami macet. Contoh mobil city car seperti Suzuki Ignis, Toyota Agya, Daihatsu Ayla, dan lain-lain.</string>
+
+    <string name="detail">Detail</string>
+    <string name="about">Tentang saya</string>
+    <string name="nama_saya">Haruman Wiguna</string>
+    <string name="email">harumanwiguna@gmail.com</string>
+    <string name="title">Title</string>
+    <string name="description">Deskripsi</string>
+    <string name="cm_logo">cm_logo</string>
+    <string name="foto_profile">Foto Profile</string>
+    <string name="back">back</string>
+    <string name="icon">icon</string>
+    <string name="ini_avatar">ini avatar</string>
+    <string name="nama_Mobil">NamaMobil</string>
+</resources>
