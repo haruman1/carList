@@ -1,6 +1,7 @@
 package com.braderrr.carmobile.utama
 
 import android.content.Intent
+import com.braderrr.carmobile.utama.SplashActivity
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
@@ -25,6 +26,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         _binding = ActivityMainBinding.inflate(layoutInflater)
+        addData()
         setContentView(binding.root)
         adapter = MobilAdapter(carList)
         layoutManager = LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false)
@@ -47,7 +49,10 @@ class MainActivity : AppCompatActivity() {
             R.drawable.citycar, getString(R.string.cityCarPembuat),getString(R.string.cityCarModel), getString(
                 R.string.cityCarKeluaran
             ), getString(R.string.cityCarDeskripsi)))
-
+        carList.add(CarModels(
+            R.drawable.citycar, getString(R.string.cityCarPembuat),getString(R.string.cityCarModel), getString(
+                R.string.cityCarKeluaran
+            ), getString(R.string.cityCarDeskripsi)))
         carList.add(CarModels(
             R.drawable.citycar, getString(R.string.cityCarPembuat),getString(R.string.cityCarModel), getString(
                 R.string.cityCarKeluaran

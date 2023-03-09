@@ -8,9 +8,5 @@ data class CarModels(
     val modelMobil: String?,
     val keluaranMobil: String?,
     val deskripsiMobil: String?,
-//    val jenisDataMobil : String?,
-//    val pembuatDataMobil : String?,
-//    val modelDataMobil : String?,
-//    val keluaranDataMobil : String?,
-//    val descDataMobil : String?,
+
 ): Parcelable

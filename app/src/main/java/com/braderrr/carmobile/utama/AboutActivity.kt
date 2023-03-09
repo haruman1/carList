@@ -19,7 +19,9 @@ class AboutActivity : AppCompatActivity() {
         Glide.with(this).load(R.drawable.foto_haruman).circleCrop().into(binding.avatar)
         binding.backarrow.setOnClickListener { finish() }
     }
-
+    companion object{
+        const val data = "Ini data"
+    }
     override fun onDestroy() {
         super.onDestroy()
         _binding = null

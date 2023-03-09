@@ -19,8 +19,8 @@
 
         <ImageView
             android:id="@+id/icon"
-            android:layout_width="70dp"
-            android:layout_height="60dp"
+            android:layout_width="72dp"
+            android:layout_height="62dp"
             android:contentDescription="@string/cm_logo"
             android:src="@drawable/cm_mobile"
             app:layout_constraintEnd_toEndOf="parent"
@@ -33,7 +33,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="12dp"
-            android:fontFamily="@font/hiragino_kaku_gothic_pro_w3"
+            android:fontFamily="@font/hiraginov2"
 
             android:text="@string/app_name"
             android:textAlignment="center"

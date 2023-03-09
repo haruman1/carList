@@ -45,7 +45,7 @@
             android:layout_marginTop="8dp"
             android:textSize="24sp"
             android:textColor="@color/material_blue"
-            android:fontFamily="@font/hiragino_kaku_gothic_pro_w3"/>
+            android:fontFamily="@font/hiraginov2"/>
 
         <TextView
             android:layout_width="wrap_content"
@@ -58,7 +58,7 @@
             android:layout_marginTop="2dp"
             android:textSize="16sp"
             android:textColor="?attr/boldText"
-            android:fontFamily="@font/hiragino_kaku_gothic_pro_w3"/>
+            android:fontFamily="@font/hiraginov2"/>
 
 
 
