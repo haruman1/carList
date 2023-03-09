@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Car Mobile</string>
+    <string name="carMobile">Car Mobile App</string>
+    <string name="avatar">avatar</string>
+    <string name="strip4">-</string>
+    <string name="keluaranMobil">Keluaran tahun</string>
+
+    <string name="cityCarMerk">Suzuki</string>
+    <string name="citycarJenis">City Car</string>
+    <string name="cityCarModel">Suzuki Wagon R</string>
+    <string name="cityCarKeluaran">2022</string>
+    <string name="cityCarDeskripsi">city car adalah jenis mobil dengan mesin serta dimensi yang sesuai untuk digunakan di jalan perkotaan. Secara sekilas, jenis mobil ini memang terlihat mirip dengan mobil hatchback. Namun jika kita lihat secara lebih detail, Anda akan mengetahui bahwa mobil jenis city car memiliki dimensi bodi yang lebih kecil jika dibandingkan dengan hatchback. Selain itu, meskipun sama-sama dapat menampung sekitar 5 orang penumpang, namun mobil city car umumnya memiliki ruang kabin yang lebih sempit.
+Perlu Anda tahu, city car memang didesain memiliki dimensi yang kecil sehingga dapat digunakan dengan nyaman untuk berkendara di jalan perkotaan yang padat atau sering mengalami macet. Contoh mobil city car seperti Suzuki Ignis, Toyota Agya, Daihatsu Ayla, dan lain-lain.</string>
+
+    <string name="hatchbackCarmerk">BMW</string>
+    <string name="hatchbackJenis">Hactback car</string>
+    <string name="hatchbackCarModel">BMW 320i Touring M Sport</string>
+    <string name="hatchbackCarKeluaran">2019</string>
+    <string name="HatchbackCarDeskripsi">mobil hatchback adalah mobil turunan sedan atau juga disebut sebagai mobil penumpang berbasis sedan. Perbedaannya dengan mobil sedan terletak pada bagian bagasi. Jika mobil sedan konvensional mempunyai “ekor” yang berfungsi sebagai ruang bagasi, hatchback memiliki bagasi yang terletak di bagian belakang bangku penumpang.
+Perlu Anda tahu, sebagian besar mobil hatchback yang beredar di Indonesia sudah memiliki fitur VSC (Vehicle Stability Control). Dengan fitur tersebut, laju mobil hatchback bisa menjadi lebih stabil.</string>
+
+    <string name="MPVMerk">Daihatsu</string>
+    <string name="MPVJenis">Multi Purpose Vehicle (MPV)</string>
+    <string name="MPVCarModel">Daihatsu Sigra</string>
+    <string name="MPVCarKeluaran">2023</string>
+    <string name="MPVCarDeskripsi">Ciri khas mobil MPV memiliki bodi bongsor dan agak mengotak. Kelebihannya adalah mampu memuat banyak penumpang dengan kabin memiliki konfigurasi tiga baris bangku. Oleh karena kabin yang lega, MPV juga sering disebut sebagai mobil keluarga. Artinya dengan memilikinya, kamu dapat mengajak serta seluruh anggota keluarga berjalan-jalan.</string>
+
+    <string name="SUVMerk">Mitsubishi Motor</string>
+    <string name="SUVJenis">Sport Utility Vehicle (SUV)</string>
+    <string name="SUVCarModel">Pajero Sport 2.4L Dakar 4X2 8AT</string>
+    <string name="SUVCarKeluaran">2023</string>
+    <string name="SUVCarDeskripsi">SUV adalah singkatan dari Sport Utility Vehicle atau terjemahan bebasnya Kendaraan Utilitas Sport. Tipe mobil satu ini merupakan kombinasi dari dua tipe mobil, tipe penumpang dan off-road. Dengan perpaduan ini, SUV bukan cuma bisa dikendarai di jalanan perkotaan biasa, tapi juga medan berat seperti jalanan berbatu.Ciri lain dari SUV adalah penggunaan sistem 4WD atau four wheels drive. Dengan sistem ini, keempat roda SUV dibekali dengan sistem penggerak mandiri. Mobil pun mendapat traksi yang mumpuni untuk melibas medan yang sulit. Meski begitu, ada juga SUV yang tidak menggunakan sistem 4WD. Biasanya, SUV tanpa 4WD disebut small SUV. </string>
+
+    <string name="wagonCarMerk">Chevrolet</string>
+    <string name="wagonJenis">Wagon Station </string>
+    <string name="wagonCarModel">Chevrolet Wagon R</string>
+    <string name="wagonCarKeluaran">2006</string>
+    <string name="wagonCarDeskripsi">Mobil wagon atau station wagon adalah jenis mobil sedan yang atapnya diperpanjang hingga sampai bagian belakang mobil. Penambahan ruang tersebut menyatukan bagasi dan kabin penumpang.
+        Hal ini membuat mobil jenis ini terasa memiliki ruang bagasi yang besar. </string>
+
+    <string name="sportCarMerk">Chevrolet</string>
+    <string name="sportCarJenis">Sport Cars </string>
+    <string name="sportCarModel">Suzuki Wagon R</string>
+    <string name="sportCarKeluaran">2023</string>
+    <string name="sportCarDeskripsi">Sportcar memiliki tampilan lebih sporty dibandingkan dua kelas di atasnya yaitu supercar dan hypercar.
+Mobil jenis ini termasuk kategori paling rendah, namun performanya di atas rata-rata dari mobil konvensional.</string>
+
+    <string name="hyperCarMerk">Mclaren</string>
+    <string name="hyperCarJenis">Hyper Cars</string>
+    <string name="hyperCarModel">McLaren F1</string>
+    <string name="hyperCarKeluaran">2022</string>
+    <string name="hyperCarDeskripsi">Hypercar adalah mobil paling unggul dan berperforma tinggi di pasar dunia. Hanya 1 persen dari mobil yang masuk kategori tersebut.
+Mobil jenis ini pertama kali diproduksi pada 1963, yaitu Lamborghini Miura atau yang juga dikenal sebagai P400.
+Lamborghini Miura dapat berakselerasi hingga 60 mph dalam waktu kurang dari 6 detik dan mencapai kecepatan tertinggi 180 mph. </string>
+
+    <string name="superCarMerk">Maserati</string>
+    <string name="superCarJenis">Super Car</string>
+    <string name="superCarModel">Maserati Mc 20</string>
+    <string name="superCarKeluaran">2022</string>
+    <string name="superCarDeskripsi">Supercar memiliki tampilan khusus dengan desain bodi bongsor, lebar, dan memiliki ground clearance rendah. Adapun tenaga dari mesinnya berkisar dari 500-700 dk. Supercar diproduksi secara terbatas dan para pemesan bisa memilih interior maupun eksterior mobil ini secara customized..</string>
+
+    <string name="crossoverCarMerk">KIA</string>
+    <string name="crossoverCarJenis">Cross Over Cars</string>
+    <string name="crossoverCarModel">KIA EV6</string>
+    <string name="crossoverCarKeluaran">2022</string>
+    <string name="crossoverCarDeskripsi">Supercar memiliki tampilan khusus dengan desain bodi bongsor, lebar, dan memiliki ground clearance rendah. Adapun tenaga dari mesinnya berkisar dari 500-700 dk. Supercar diproduksi secara terbatas dan para pemesan bisa memilih interior maupun eksterior mobil ini secara customized..</string>
+
+
+    <string name="pickCarMerk">Mitsubishi</string>
+    <string name="pickCarJenis">Pick Up Cars</string>
+    <string name="pickCarModel">Mitsubishi L300</string>
+    <string name="pickCarKeluaran">1982</string>
+    <string name="pickCarDeskripsi">Mobil pick up merupakan jenis dari kendaraan truk yang mempunyai kabin tertutup dan bak terbuka pada bagian belakang untuk membawa barang bawaan. Kendaraan ini umumnya digunakan untuk keperluan komersial atau pekerjaan yang membutuhkan antar jemput barang muatan.</string>
+
+    <string name="detail">Detail</string>
+    <string name="about">Tentang saya</string>
+    <string name="nama_saya">Haruman Wiguna</string>
+    <string name="email">harumanwiguna@gmail.com</string>
+    <string name="title">Title</string>
+    <string name="description">Deskripsi</string>
+    <string name="cm_logo">cm_logo</string>
+    <string name="foto_profile">Foto Profile</string>
+    <string name="back">back</string>
+    <string name="icon">icon</string>
+    <string name="ini_avatar">ini avatar</string>
+    <string name="nama_Mobil">NamaMobil</string>
+</resources>
