@@ -10,7 +10,7 @@ class AboutActivity : AppCompatActivity() {
     private var _binding: ActivityAboutBinding? = null
     private val binding get() = _binding!!
 
-
+    //perubahan ini indah sekali
     override fun onCreate(savedInstanceState: Bundle?) {
 
         super.onCreate(savedInstanceState)

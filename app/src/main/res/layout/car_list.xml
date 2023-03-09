@@ -6,21 +6,26 @@
    app.cardCornerRadius="10dp"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-   android:layout_marginStart="10dp"
-    android:layout_marginEnd="10dp"
-    android:layout_marginBottom="10dp"
-    app:cardElevation="8dp"
+    android:layout_gravity="center"
+   android:layout_marginStart="8dp"
+    android:layout_marginTop="4dp"
+    android:layout_marginEnd="8dp"
+    android:layout_marginBottom="8dp"
+    app:cardElevation="6dp"
+    app:cardCornerRadius="4dp"
     android:background="?attr/card">
 
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:padding="8dp"
+        >
 
         <ImageView
             android:id="@+id/image"
             android:layout_width="80dp"
-            android:layout_height="80dp"
+            android:layout_height="100dp"
             android:layout_marginStart="8dp"
             android:layout_marginBottom="8dp"
             android:layout_marginTop="8dp"
@@ -31,10 +36,10 @@
             android:contentDescription="@string/ini_avatar" />
 
         <TextView
-            android:id="@+id/namaMobil"
+            android:id="@+id/merkMobil"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            tools:text="@string/nama_Mobil"
+            tools:text="Merk Mobil"
             android:maxLines="1"
             android:ellipsize="end"
             app:layout_constraintTop_toTopOf="parent"
@@ -44,21 +49,21 @@
             android:layout_marginStart="8dp"
             android:layout_marginTop="8dp"
             android:textSize="24sp"
-            android:textColor="@color/material_blue"
-            android:fontFamily="@font/hiraginov2"/>
+            android:textColor="@color/black_bold_text"
+            android:fontFamily="@font/hiragino_kaku_gothic_pro_w3"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/merk"
-            tools:text="Merk"
-            app:layout_constraintTop_toBottomOf="@id/namaMobil"
+            android:id="@+id/namaMobil"
+            tools:text="Nama Mobil"
+            app:layout_constraintTop_toBottomOf="@id/merkMobil"
             app:layout_constraintStart_toEndOf="@id/image"
-            android:layout_marginStart="8dp"
-            android:layout_marginTop="2dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="4dp"
             android:textSize="16sp"
             android:textColor="?attr/boldText"
-            android:fontFamily="@font/hiraginov2"/>
+            android:fontFamily="@font/hiragino_kaku_gothic_pro_w3"/>
 
 
 

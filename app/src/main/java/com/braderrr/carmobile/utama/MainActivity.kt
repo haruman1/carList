@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         _binding = ActivityMainBinding.inflate(layoutInflater)
-        addData()
+        tambahMobil()
         setContentView(binding.root)
         adapter = MobilAdapter(carList)
         layoutManager = LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false)
@@ -44,47 +44,29 @@ class MainActivity : AppCompatActivity() {
             binding.about.setOnClickListener { startActivity(Intent(this, AboutActivity::class.java )) }
     }
 
-    private fun addData(){
-        carList.add(CarModels(
-            R.drawable.citycar, getString(R.string.cityCarPembuat),getString(R.string.cityCarModel), getString(
-                R.string.cityCarKeluaran
-            ), getString(R.string.cityCarDeskripsi)))
-        carList.add(CarModels(
-            R.drawable.citycar, getString(R.string.cityCarPembuat),getString(R.string.cityCarModel), getString(
-                R.string.cityCarKeluaran
-            ), getString(R.string.cityCarDeskripsi)))
-        carList.add(CarModels(
-            R.drawable.citycar, getString(R.string.cityCarPembuat),getString(R.string.cityCarModel), getString(
-                R.string.cityCarKeluaran
-            ), getString(R.string.cityCarDeskripsi)))
-        carList.add(CarModels(
-            R.drawable.citycar, getString(R.string.cityCarPembuat),getString(R.string.cityCarModel), getString(
-                R.string.cityCarKeluaran
-            ), getString(R.string.cityCarDeskripsi)))
-        carList.add(CarModels(
-            R.drawable.citycar, getString(R.string.cityCarPembuat),getString(R.string.cityCarModel), getString(
-                R.string.cityCarKeluaran
-            ), getString(R.string.cityCarDeskripsi)))
-        carList.add(CarModels(
-            R.drawable.citycar, getString(R.string.cityCarPembuat),getString(R.string.cityCarModel), getString(
-                R.string.cityCarKeluaran
-            ), getString(R.string.cityCarDeskripsi)))
-        carList.add(CarModels(
-            R.drawable.citycar, getString(R.string.cityCarPembuat),getString(R.string.cityCarModel), getString(
-                R.string.cityCarKeluaran
-            ), getString(R.string.cityCarDeskripsi)))
-        carList.add(CarModels(
-            R.drawable.citycar, getString(R.string.cityCarPembuat),getString(R.string.cityCarModel), getString(
-                R.string.cityCarKeluaran
-            ), getString(R.string.cityCarDeskripsi)))
-        carList.add(CarModels(
-            R.drawable.citycar, getString(R.string.cityCarPembuat),getString(R.string.cityCarModel), getString(
-                R.string.cityCarKeluaran
-            ), getString(R.string.cityCarDeskripsi)))
-        carList.add(CarModels(
-            R.drawable.citycar, getString(R.string.cityCarPembuat),getString(R.string.cityCarModel), getString(
-                R.string.cityCarKeluaran
-            ), getString(R.string.cityCarDeskripsi)))
+    private fun tambahMobil(){
+        carList.add(CarModels(R.drawable.citycar, getString(R.string.citycarJenis), getString(R.string.cityCarMerk), getString(R.string.cityCarKeluaran), getString(R.string.cityCarDeskripsi)))
+
+        carList.add(CarModels(R.drawable.hactback_bmw, getString(R.string.hatchbackJenis), getString(R.string.hatchbackCarmerk), getString(R.string.hatchbackCarKeluaran), getString(R.string.HatchbackCarDeskripsi)))
+
+        carList.add(CarModels(R.drawable.mpv_sigra, getString(R.string.MPVJenis), getString(R.string.MPVMerk), getString(R.string.MPVCarKeluaran), getString(R.string.MPVCarDeskripsi)))
+
+        carList.add(CarModels(R.drawable.suv_pajero, getString(R.string.SUVJenis), getString(R.string.SUVMerk), getString(R.string.SUVCarKeluaran), getString(R.string.SUVCarDeskripsi)))
+
+
+        carList.add(CarModels(R.drawable.chevrolet_wagon, getString(R.string.wagonJenis), getString(R.string.wagonCarMerk), getString(R.string.wagonCarKeluaran), getString(R.string.wagonCarDeskripsi)))
+
+
+        carList.add(CarModels(R.drawable.sport_chevrolet, getString(R.string.sportCarJenis), getString(R.string.sportCarMerk), getString(R.string.sportCarKeluaran), getString(R.string.sportCarDeskripsi)))
+
+        carList.add(CarModels(R.drawable.hypercar_mclaren, getString(R.string.hyperCarJenis), getString(R.string.hyperCarMerk), getString(R.string.hyperCarKeluaran), getString(R.string.hyperCarDeskripsi)))
+
+        carList.add(CarModels(R.drawable.supercar_masserati, getString(R.string.superCarJenis), getString(R.string.superCarMerk), getString(R.string.superCarKeluaran), getString(R.string.superCarDeskripsi)))
+
+        carList.add(CarModels(R.drawable.crossover_kiaev6, getString(R.string.crossoverCarJenis), getString(R.string.crossoverCarMerk), getString(R.string.crossoverCarKeluaran), getString(R.string.crossoverCarDeskripsi)))
+
+        carList.add(CarModels(R.drawable.pickup_mitsubishi, getString(R.string.pickCarJenis), getString(R.string.pickCarMerk), getString(R.string.pickCarKeluaran), getString(R.string.pickCarDeskripsi)))
+
 
     }
 

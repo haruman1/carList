@@ -26,8 +26,10 @@ class MobilAdapter(private var carList: List<CarModels>): RecyclerView.Adapter<M
         with(holder){
             with(carList[position]){
                 Glide.with(itemView.context).load(avatar).circleCrop().into(binding.image)
-                binding.namaMobil.text = modelMobil
-                binding.merk.text = pembuatMobil
+                binding.merkMobil.text = merkMobil
+                binding.namaMobil.text = jenisMobil
+//                binding.namaMobil.text =
+//                binding.merk.text = pembuatMobil
                 //List Click
                 itemView.setOnClickListener { onCarListClickListener.onCarListClick(carList[position]) }
                 if(position == carList.lastIndex){

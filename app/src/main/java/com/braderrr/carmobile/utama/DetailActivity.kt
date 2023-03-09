@@ -16,9 +16,9 @@ class DetailActivity : AppCompatActivity() {
         _binding = ActivityDetailBinding.inflate(layoutInflater)
         val data = intent.getParcelableExtra<CarModels>(data) as CarModels
         binding.image.setImageResource(data.avatar!!)
-        binding.title.text = data.pembuatMobil
-        binding.modelMobil.text = data.modelMobil
-        binding.jenisMobil.text = data.pembuatMobil
+        binding.jenisMobil.text = data.jenisMobil
+        binding.merkMobil.text = data.merkMobil
+        binding.keluaranMobil2.text = data.keluaranMobil
         binding.desccontent.text = data.deskripsiMobil
 
         binding.backarrow.setOnClickListener { finish() }

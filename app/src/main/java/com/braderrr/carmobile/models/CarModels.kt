@@ -4,8 +4,8 @@ import kotlinx.parcelize.Parcelize
 @Parcelize
 data class CarModels(
     val avatar: Int?,
-    val pembuatMobil: String?,
-    val modelMobil: String?,
+    val jenisMobil: String?,
+    val merkMobil: String?,
     val keluaranMobil: String?,
     val deskripsiMobil: String?,
 
